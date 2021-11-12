@@ -1,6 +1,7 @@
 import sys
 from PyQt5 import QtWidgets, QtCore
 from PyQt5.QtWidgets import QMainWindow
+import mysql
 # This is a sample Python script.
 
 # Press Umschalt+F10 to execute it or replace it with your code.
