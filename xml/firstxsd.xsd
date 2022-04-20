@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="data">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" name="buchung">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element type="xs:string" name="pzn"/>
+                            <xs:element type="xs:float" name="quantity"/>
+                            <xs:element type="xs:integer" name="type"/>
+                            <xs:element type="xs:dateTime" name="time"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

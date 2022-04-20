@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<data>
+  <buchung>
+    <pzn>-1456789</pzn>
+    <quantity>1551.5</quantity>
+    <type>1</type>
+    <time>2022-01-02T09:00:01</time>
+  </buchung>
+  <buchung>
+    <pzn>-14789</pzn>
+    <quantity>51.5</quantity>
+    <type>1</type>
+    <time>2022-01-06T09:00:01</time>
+  </buchung>
+  <buchung>
+    <pzn>-14567543589</pzn>
+    <quantity>1132.5</quantity>
+    <type>2</type>
+    <time>2022-01-02T09:06:01</time>
+  </buchung>
+  <buchung>
+    <pzn>-1455321432534789</pzn>
+    <quantity>131.5</quantity>
+    <type>1</type>
+    <time>2022-01-02T09:03:01</time>
+  </buchung>
+</data>
